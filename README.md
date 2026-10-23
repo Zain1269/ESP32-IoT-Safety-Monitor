@@ -31,7 +31,7 @@ The system monitors temperature, humidity, and ambient light, serves a web dashb
 
 ### Prototype
 
-![ESP32 IoT Safety Monitor hardware setup](images/hardware-setup.jpg)
+![ESP32 IoT Safety Monitor hardware setup](hardware-setup.jpg)
 
 *ESP32 DevKit on a breadboard with the DHT11 module, LDR, and buzzer.*
 
